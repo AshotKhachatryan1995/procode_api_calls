@@ -1,29 +1,45 @@
 {
    "objects":[
       {
+         "id": "1",
+         "text": "Hello1",
          "phone":"+12345678900",
          "price":"1 $",
+         "email": "test1@mail",
          "zip":"12345-6789"
       },
       {
+         "id": "2",
+         "text": "Hello2",
          "phone":"(562) 123-5698",
+         "email": "test2@mail.ru",
          "zip":"12344"
       },
       {
+         "id": "3",
+         "text": "Hello3",
          "phone":"(325)019-5190",
-         "price":"10.5 $$"
+         "price":"10.5 $$",
+         "email": "test3@gmail.com"
       },
       {
+         "id": "4",
+         "text": "Hello4",
          "phone":"2567459999",
          "price":"2000,89",
-         "zip":"1234-34545"
+         "zip":"1234-34545",
+         "email": "tes4@gmail.com"
       },
       {
+         "id": "5",
          "phone":"+1(325)658-7585",
          "price":"2,000.00",
-         "zip":"123450000"
+         "zip":"123450000",
+         "email": "tessss5@gmail.com"
       },
       {
+         "id": "6",
+         "text": "Hello6",
          "phone":"25674500",
          "price":"€ 2.000,00",
          "zip":"123-000-545"
