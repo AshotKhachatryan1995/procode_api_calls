@@ -3,7 +3,7 @@
         {
             "id":"1",
             "text":"Hello1",
-            "phone":"+12345678900",
+            "phone":1234567890,
             "price":"1 $",
             "email":"test1@mail",
             "zip":"12345-6789",
